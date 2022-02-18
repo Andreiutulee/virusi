@@ -1,2 +1,3 @@
 # virusi
-virusi pericolosi
+nu incerca pe sitem doar pe masini vituale
+
